@@ -1,0 +1,1 @@
+ {'name,indrajeet,age,22,email ,indrajee323@gmail.com,crd ,ind123'}its meits mepython -u "c:\Users\indra\Desktop\chetu training center\assignment2.py"
